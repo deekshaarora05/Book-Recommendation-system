@@ -1,7 +1,11 @@
 ## Book Recommendation System
-### *Massimo Malandra, November 2018*
+
 <br>
 This repository contains all the files related to the final project.
+
+To run the GUI interface from command prompt use: python run_gui.py
+
+About Project:
 
 The objective of this project is the implementation of a **book recommender system**, using the data made available by Goodreads, a website where users can register and rate the books they have read, sharing their ratings and opinions with other readers. 
 The approach chosen is to generate a system that recommends books using the information inherent in users' ratings. 
