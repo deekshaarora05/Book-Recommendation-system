@@ -1,8 +1,6 @@
 ## Book Recommendation System
 
 <br>
-This repository contains all the files related to the final project.
-
 
 To run the GUI interface from command prompt use: 
 
